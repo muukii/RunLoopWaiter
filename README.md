@@ -1,3 +1,3 @@
 # RunLoopWaiter
 
-A description of this package.
+From: https://github.com/muukii/Play.RunLoopWaiter
